@@ -18,14 +18,14 @@ module.exports = {
 				icon: `src/images/favicon.png`,
 			},
 		},
-		{
-			resolve: `gatsby-plugin-google-analytics`,
-			options: {
-				// If using cloud deployment services, add GOOGLE_ANALYTICS_TRACKING_ID to your environment variables.
-				trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID,
-				head: true,
-			},
-		},
+		// {
+		// 	resolve: `gatsby-plugin-google-analytics`,
+		// 	options: {
+		// 		// If using cloud deployment services, add GOOGLE_ANALYTICS_TRACKING_ID to your environment variables.
+		// 		trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID,
+		// 		head: true,
+		// 	},
+		// },
 		{
 			resolve: `gatsby-source-filesystem`,
 			options: {
