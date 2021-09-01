@@ -2,7 +2,7 @@ module.exports = {
 	siteMetadata: {
 		// Update these and enjoy :)
 		title: `Enterprise Web Edition.`,
-		description: `Ett megasin som ger us 6 gånger per år. Magasinet ligger i väntrummen på 3 000 större företag och delas även ut digitalt via Facebook till ca 300 000 människor och företag.`,
+		description: `Ett magasin som ger us 6 gånger per år. Magasinet ligger i väntrummen på 3 000 större företag och delas även ut digitalt via Facebook till ca 300 000 människor och företag.`,
 		author: `Enterprise Web Edition.`,
 	},
 	plugins: [
